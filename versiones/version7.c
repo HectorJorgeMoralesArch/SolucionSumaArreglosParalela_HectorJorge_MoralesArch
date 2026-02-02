@@ -3,6 +3,7 @@
  * Todas las versiones integradas en un solo sistema
  * 
  * Autor: Hector Jorge Morales Arch
+ * Alias: 江久取
  * 
  * Caracteristicas incluidas:
  * 1. Version 1: Suma secuencial
