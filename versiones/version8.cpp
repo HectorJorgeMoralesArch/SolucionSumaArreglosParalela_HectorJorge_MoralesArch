@@ -3,6 +3,7 @@
  * Implementación con GPU usando CUDA
  * 
  * Autor: Hector Jorge Morales Arch
+ * Alias: 江久取
  * 
  * Caracteristicas incluidas:
  * 1. Version 1: Suma secuencial en CPU
